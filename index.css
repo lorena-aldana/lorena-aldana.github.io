@@ -165,8 +165,8 @@ button:hover {
 
 .images
   {
-    position:absolute;
-    right:0;bottom:100;
+    position:fixed;
+    right:0;bottom:20;
   }
 
 /* RESPONSIVE */
