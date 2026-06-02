@@ -1,0 +1,9 @@
+baseURL = 'https://lorenaaldana.github.io/'
+locale = 'en-gb'
+theme = "triple-hyde"
+enableEmoji = true
+
+[params]
+title = "Lorena Aldana - @loresonics"
+author = "Lorena Aldana"
+description = ""
