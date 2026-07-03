@@ -6,4 +6,41 @@ enableEmoji = true
 [params]
 title = "Lorena Aldana - @loresonics"
 author = "Lorena Aldana"
-description = ""
+description = "Lorena Aldana"
+layoutReverse = false
+themeColor = "theme-base-0e"
+authorimage = "images/Photo_Lorena.jpg"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+showdate = false
+
+[params.social]
+    github = "lorena-aldana"
+    linkedin = "lorena-aldana-blanco"
+
+
+[menus]
+  [[menus.about]]
+    name = 'about'
+    pageRef = '/about'
+    weight = 70
+  [[menus.main]]
+    name = 'projects'
+    pageRef = '/projects/projects'
+    weight = 20
+  [[menus.main]]
+    name = 'research'
+    pageRef = '/research/research'
+    weight = 10
+  [[menus.main]]
+    name = 'teaching'
+    pageRef = '/teaching/teaching'
+    weight = 40
+  [[menus.main]]
+    name = 'blog'
+    pageRef = '/blog'
+    weight = 50
+  
+
+mainSections = ["about/about"]
+ 
