@@ -12,4 +12,4 @@ The [research](../research/research) section focuses on my Postdoc and PhD exper
 The [projects](../projects/projects) section focuses on media outputs. Here you will find a series of podcasts about historical memory and peace building in Colombia. The [teaching](../teaching/teaching) section is under development. I've taught a few courses that combine my skills in Sound Engineering and Computer Sciences (e.g., Introduction to audio programming, sonification, etc.). My plan for this section is to add educational resources inspired by my experience as a teacher and a researcher. 
 Lastly, the [blog](../blog/blog) is a space to share interesting updates about my research field(s). I've decided to write the blog in Spanish with the hope that it reaches (and hopefully inspires) the next generation of researchers in Colombia and other Spanish speaking countries.  
 
-
+**test**
