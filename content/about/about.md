@@ -17,6 +17,6 @@ My research interests lie at the intersection of speech and hearing technologies
 - The [teaching](../teaching/teaching) section is under development. I've taught a few courses that combine my skills in Sound Engineering and Computer Science (e.g., Introduction to audio programming, sound design for media and sonification, etc.). My plan for this section is to add educational resources inspired by my experience in teaching and research. 
 
 - The [blog](../blog/blog) is a space to share interesting updates about my research fields. I've decided to write the blog in Spanish with the hope that it reaches, and hopefully inspires, the next generation of researchers in Colombia and other Spanish speaking countries. 
-El [blog](../blog/blog) es un espacio ( en español) para compartir información relacionada con mis campos de investigación.  
+El [blog](../blog/blog) es un espacio (en español) para compartir información relacionada con mis campos de investigación.  
 
 
