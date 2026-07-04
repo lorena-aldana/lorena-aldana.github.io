@@ -11,5 +11,33 @@
 		
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About me</title>
+				<link>http://localhost:1313/about/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/about/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m a Sound Engineer with a background in Sound and Music Computing and a PhD in Computer Science.&lt;/p&gt;&#xA;&lt;p&gt;My research interests lie at the intersection of speech and hearing technologies, audio signal processing and machine learning, sonification and audio AI in healthcare. I&amp;rsquo;m interested in exploring interdisciplinary approaches to address current global challenges under a framework of responsible research and innovation&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;../research/research&#34;&gt;research&lt;/a&gt; section focuses on my Postdoc and PhD experiences. They have resources to datasets, papers, scripts and any other research outputs I&amp;rsquo;ve contributed to.&#xA;The &lt;a href=&#34;../projects/projects&#34;&gt;projects&lt;/a&gt; section focuses on media outputs. Here you will find a series of podcasts about historical memory and peace building in Colombia. The &lt;a href=&#34;../teaching/teaching&#34;&gt;teaching&lt;/a&gt; section is under development. I&amp;rsquo;ve taught a few courses that combine my skills in Sound Engineering and Computer Sciences (e.g., Introduction to audio programming, sonification, etc.). My plan for this section is to add educational resources inspired by my experience as a teacher and a researcher.&#xA;Lastly, the &lt;a href=&#34;../blog/blog&#34;&gt;blog&lt;/a&gt; is a space to share interesting updates about my research field(s). I&amp;rsquo;ve decided to write the blog in Spanish with the hope that it reaches (and hopefully inspires) the next generation of researchers in Colombia and other Spanish speaking countries.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Notes on teaching</title>
+				<link>http://localhost:1313/teaching/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/teaching/</guid>
+				<description>&lt;p&gt;Notes on teaching.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../about/about&#34;&gt;Go to Main Page&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Projects</title>
+				<link>http://localhost:1313/projects/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/</guid>
+				<description>&lt;p&gt;Projects I&amp;rsquo;ve worked on.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../about/about&#34;&gt;Go to Main Page&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research</title>
+				<link>http://localhost:1313/research/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/</guid>
+				<description>&lt;p&gt;In early 2022, I joined the University of Edinburgh as a Research Associate. Since then, my research focus has been in speech and hearing technologies.&lt;/p&gt;&#xA;&lt;p&gt;During my Postdoc, I worked on exploring the scope of multi-modal approaches in speech enhancement. A big part of my work was in the evaluation of these systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../about/about&#34;&gt;Go to Main Page&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
