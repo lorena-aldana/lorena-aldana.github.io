@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Researches on </title>
+		<link>http://localhost:1313/research/</link>
+		<description>Recent content in Researches on </description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Research</title>
+				<link>http://localhost:1313/research/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/</guid>
+				<description>&lt;p&gt;In early 2022, I joined the University of Edinburgh as a Research Associate. Since then, my research focus has been in speech and hearing technologies.&lt;/p&gt;&#xA;&lt;p&gt;During my Postdoc, I worked on exploring the scope of multi-modal approaches in speech enhancement. A big part of my work was in the evaluation of these systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../about/about&#34;&gt;Go to Main Page&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
